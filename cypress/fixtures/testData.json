@@ -1,18 +1,17 @@
 {
+  "acceptEncodingHeader": {
+    "Accept-Encoding": "gzip, deflate"
+  },
   "carsMainPage": "https://www.cars.com/",
   "testResearchLinkTitle": "Research",
   "researchPage": "/research",
-  "optionsCar1FilePath": "../fixtures/car1Options.json",
-  "optionsCar2FilePath": "../fixtures/car2Options.json",
-  "car1OptionsFile":  "car1Options.json",
-  "car2OptionsFile":  "car2Options.json",
-  "car1CharacterisitcsFile":  "car1Characteristics.json",
-  "car2CharacteristicsFile": "car2Characteristics.json",
+  "minIndex": 0,
+  "maxIndex": 1,
   "comparePage": "compare",
   "makeMenuEnpoint": "https://www.cars.com/zJEL1c/1Le/lXM/ipcDGVnc/YDV1DG2V8fat/TXZPMGgAJwM/bSEhQl/gjexE",
   "doorCharacteristic": "door",
   "seatCharacteristic": "seat",
   "engineCharacteristic": "Engine",
   "motorCharacteristic": "Motor",
-  "files": "cypress/fixtures/"
+  "firstTrim": 0
 }
